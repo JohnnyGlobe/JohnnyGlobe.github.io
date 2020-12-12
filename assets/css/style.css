@@ -2141,11 +2141,11 @@ section {
   color: white;
 }
 
-/*--------------------------------------------------------------
+//*--------------------------------------------------------------
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(2, 2, 2, 0.2), rgba(0, 0, 0, 0.2)), url("../img/ctb-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.2), rgba(0, 0, 0, 0.2)), url("../img/christmasBanner6.jpg") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
@@ -2170,12 +2170,13 @@ section {
   border-radius: 5px;
   transition: 0.3s;
   margin-top: 10px;
-  border: 2px solid #fff;
+  border: 2px solid #d82623;
   color: #fff;
+  background: #d82623;
 }
 
 .cta .cta-btn:hover {
-  background: #000;
+  background: #fff;
   border: 2px solid #d82623;
 }
 
