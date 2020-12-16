@@ -2193,3 +2193,9 @@ section {
 .nk-df-bg-100, .img-block-dot, .app-slide-wrap:after, .rank-item { background-repeat: no-repeat; background-size: 100%; background-position: 50% 50%; }
 .btn-play{font-size:72px;color:white;}
 .btn-play:hover{color:red;}
+
+.signup {
+  background: linear-gradient(rgba(2, 2, 2, 0.2), rgba(0, 0, 0, 0.2)), url("../img/christmasBanner7.jpg") fixed center center;
+  background-size: cover;
+  padding: 60px 0;
+}
