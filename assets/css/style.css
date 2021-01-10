@@ -2201,7 +2201,7 @@ section {
 }
 
 .signup {
-  background: linear-gradient(rgba(2, 2, 2, 0.2), rgba(0, 0, 0, 0.2)), url("../img/christmasBanner7.jpg") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.2), rgba(0, 0, 0, 0.2)),  fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
