@@ -489,8 +489,13 @@ h1, h2, h3, h4, h5, h6 {
   background: #d9232d;
 }
 
+#hero .chat{
+  background:#a23238;
+}
+
 #hero .btn-get-started:hover {
-  background: #df3740;
+  background-color: #fff;
+  color: #df3740;
 }
 
 @media (max-width: 992px) {
