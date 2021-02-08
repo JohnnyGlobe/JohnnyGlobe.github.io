@@ -368,7 +368,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .carousel-item::before {
   content: '';
-  background-color: rgba(30, 35, 40, 0.6);
+  background-color: rgba(30, 35, 40, 0.5);
 }
 
 #hero .carousel-container {
@@ -2152,7 +2152,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(2, 2, 2, 0.2), rgba(0, 0, 0, 0.2)), url("../img/newyearBanner.jpg") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.2), rgba(0, 0, 0, 0.2)), url("../img/cnyBanner.png") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
