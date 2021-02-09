@@ -2195,7 +2195,7 @@ section {
 .nk-df-l, .nk-df-x { left: 0; }
 .nk-df-r, .nk-df-x { right: 0; }
 .nk-df-around, .nk-ovm, .nk-ovm:before, .nk-ovm:after, .bg-image, .overlay:after, .nk-ovm .nk-svgs, .progress-percent, .accordion-icon:before, .accordion-icon:after { position: absolute; bottom: 0; top: 0; left: 0; right: 0; }
-.nk-df-center, .nk-block-video-play { position: absolute; top: 55%; left: 25%; transform: translate(-50%, -50%); }
+.nk-df-center, .nk-block-video-play { position: absolute; top: 50%; left: 45%; transform: translate(-50%, -50%); }
 .nk-df-bg, .nk-ovm, .nk-ovm:before, .nk-ovm:after, .has-bg, [class*='bg-'], .bg-image { background-repeat: no-repeat; background-size: cover; background-position: 50% 50%; }
 .nk-df-bg-100, .img-block-dot, .app-slide-wrap:after, .rank-item { background-repeat: no-repeat; background-size: 100%; background-position: 50% 50%; }
 .btn-play{font-size:72px;color:white;}
