@@ -2233,3 +2233,8 @@ section {
   font-family: "Poppins", sans-serif;
   color: #d9232d;
 }
+
+iframe {
+    display: block;
+    margin: auto;
+}
