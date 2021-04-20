@@ -401,6 +401,22 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 20px;
 }
 
+#hero ul {
+  list-style: none;
+  padding: 0;
+}
+
+#hero ul li {
+  padding: 10px 0 0 28px;
+  position: relative;
+  color:#fff;
+}
+
+#hero ul i {
+  font-size: 20px;
+  color: #d9232d;
+}
+
 #hero .carousel-inner .carousel-item {
   transition-property: opacity;
   background-position: center top;
@@ -533,7 +549,7 @@ section {
 }
 
 .section-bg, .services .icon-box {
-  background-color: #f8f9fa;
+  background-color: #edeff0;
 }
 
 .section-title {
@@ -2152,14 +2168,21 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(2, 2, 2, 0.2), rgba(0, 0, 0, 0.2)), url("../img/cnyBanner.png") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.2), rgba(0, 0, 0, 0.2)), url("../img/ctacover.jpg") fixed center center;
   background-size: cover;
   padding: 60px 0;
+
 }
 
 .cta h3 {
   color: #fff;
-  font-size: 28px;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.cta h4 {
+  color: #fff;
+  font-size: 24px;
   font-weight: 700;
 }
 
@@ -2182,9 +2205,16 @@ section {
   background: #d82623;
 }
 
+.cta-img {
+  width: 190px;
+
+  margin: 0 10px 0 0;
+}
+
 .cta .cta-btn:hover {
   background: #fff;
   border: 2px solid #d82623;
+  color:#d9232d;
 }
 
 .nk-df-content, .nk-ovm:before, .nk-ovm:after { content: ""; }
