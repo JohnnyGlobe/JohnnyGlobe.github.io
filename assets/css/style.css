@@ -735,6 +735,13 @@ section {
   font-size: 40px;
 }
 
+.services h3 {
+  font-weight: 500;
+  margin-top: 25px;
+  margin-bottom: 50px;
+  font-size: 24px;
+}
+
 .services .icon-box h4 {
   margin-left: 70px;
   font-weight: 700;
